@@ -1,6 +1,6 @@
 <!-- trinhxuanthuy -->
 <a href="#" target="_blank">
-  <img src="./svg/trinhxuanthuy.svg" width="1200" alt="trinhxuanthuy-official" />
+  <img src="svg/trinhxuanthuy.svg" width="1200" alt="trinhxuanthuy-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
