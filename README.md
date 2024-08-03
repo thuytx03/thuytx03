@@ -26,6 +26,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/jQuery-282C34?logo=jquery&logoColor=4FC08D" alt="jQuery logo" title="jQuery" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
