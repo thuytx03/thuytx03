@@ -6,7 +6,7 @@ I build web platforms end to end: backends, frontends and AI-powered features, a
 
 - 🔭 Full Stack Engineer at **AI VIETNAM**: building AI education products **Examdee**, **Examdee Organization** and **ECTeach** (an English-learning platform for teachers).
 - 🚀 Co-founder of **Xthuy Social**.
-- 💍 Building **[Ngày Chung Đôi](https://ngaychungdoi.com)**: an online wedding-invitation platform (coming soon).
+<!-- - 💍 Building **[Ngày Chung Đôi](https://ngaychungdoi.com)**: an online wedding-invitation platform (coming soon). -->
 - 🐘 Started my career with PHP, and still have a soft spot for it.
 
 ## Tech stack
@@ -55,7 +55,8 @@ I build web platforms end to end: backends, frontends and AI-powered features, a
 | **ECTeach** — English-learning platform for teachers (AI VIETNAM) | Full-stack development of teaching and learning features | React, Node.js, MongoDB |
 | **SALEMALL** — CRM, CMS, chatbot & affiliate systems | Built and maintained CRM, CMS, chatbot and affiliate modules | Laravel, PHP, MySQL, Vue |
 | **Xthuy Social** — social platform | Co-founder; product and full-stack development | _(fill in)_ |
-| **[Ngày Chung Đôi](https://ngaychungdoi.com)** — online wedding invitations (coming soon) | Invitation builder, guest RSVP, sharing | _(fill in)_ |
+
+<!-- | **[Ngày Chung Đôi](https://ngaychungdoi.com)** — online wedding invitations (coming soon) | Invitation builder, guest RSVP, sharing | _(fill in)_ | -->
 
 _Most of this work lives in private repositories; happy to walk through the architecture on a call._
 
