@@ -6,6 +6,7 @@ I build web platforms end to end: backends, frontends and AI-powered features, a
 
 - 🔭 Full Stack Engineer at **AI VIETNAM**: building AI education products **Examdee**, **Examdee Organization** and **ECTeach** (an English-learning platform for teachers).
 - 🚀 Co-founder of **Xthuy Social**.
+- 💌 Launched **[Chuyện Đôi Ta](https://chuyendoita.vercel.app/)**: a free online wedding-invitation site. Pick a template, add photos and your invitation, share via Zalo or Messenger and track guest RSVPs.
 <!-- - 💍 Building **[Ngày Chung Đôi](https://ngaychungdoi.com)**: an online wedding-invitation platform (coming soon). -->
 - 🐘 Started my career with PHP, and still have a soft spot for it.
 
@@ -65,6 +66,7 @@ I build web platforms end to end: backends, frontends and AI-powered features, a
 | **ECTeach** — English-learning platform for teachers (AI VIETNAM) | Full-stack development of teaching and learning features | React, Node.js, MongoDB |
 | **SALEMALL** — CRM, CMS, chatbot & affiliate systems | Built and maintained CRM, CMS, chatbot and affiliate modules | Laravel, PHP, MySQL, Vue |
 | **Xthuy Social** — social platform | Co-founder; product and full-stack development | _(fill in)_ |
+| **[Chuyện Đôi Ta](https://chuyendoita.vercel.app/)** — free online wedding invitations | Built and launched end to end: invitation templates, photo & message editor, sharing, guest RSVP tracking | Next.js, Vercel |
 
 <!-- | **[Ngày Chung Đôi](https://ngaychungdoi.com)** — online wedding invitations (coming soon) | Invitation builder, guest RSVP, sharing | _(fill in)_ | -->
 
