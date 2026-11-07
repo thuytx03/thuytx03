@@ -64,7 +64,7 @@ I build web platforms end to end: backends, frontends and AI-powered features, a
 |---|---|---|
 | **Examdee & Examdee Organization** — AI exam and learning platform (AI VIETNAM) | Full-stack development of exam, learning and organization-management features | React, Vue, Node.js, MongoDB, Qdrant |
 | **ECTeach** — English-learning platform for teachers (AI VIETNAM) | Full-stack development of teaching and learning features | React, Node.js, MongoDB |
-| **SALEMALL** — CRM, CMS, chatbot & affiliate systems | Built and maintained CRM, CMS, chatbot and affiliate modules | Laravel, PHP, MySQL, Vue |
+| **SALEMALL** — CRM, CMS, chatbot & affiliate systems | Built and maintained CRM, CMS, chatbot and affiliate modules | Laravel, PHP, Node.js, React.js, Vue.js, Next.js, MySQL, MongoDB |
 | **Xthuy Social** — social platform | Co-founder; product and full-stack development | _(fill in)_ |
 | **[Chuyện Đôi Ta](https://chuyendoita.vercel.app/)** — free online wedding invitations | Built and launched end to end: invitation templates, photo & message editor, sharing, guest RSVP tracking | Next.js, Vercel |
 
